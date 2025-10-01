@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: [https://escomisr.github.io/Polilibro-_SO/]
+**URL**: https://lovable.dev/projects/ffb01514-83dc-45f3-9e6c-63f4f94f44d1
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://https://escomisr.github.io/Polilibro-_SO) and start prompting.
+Simply visit the [Lovable Project](https://lovable.dev/projects/ffb01514-83dc-45f3-9e6c-63f4f94f44d1) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -18,7 +18,7 @@ Changes made via Lovable will be committed automatically to this repo.
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://https://escomisr.github.io/Polilibro-_SO)
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
 
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [https://escomisr.github.io/Polilibro-_SO/) and click on Share -> Publish.
+Simply open [Lovable](https://lovable.dev/projects/ffb01514-83dc-45f3-9e6c-63f4f94f44d1) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
